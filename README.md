@@ -1,6 +1,8 @@
 ### Code for *Fast and Flexible Inference of Joint Distributions from their Marginals*
 
-Demonstration of how to use the code is in `demo.py`.
+A demonstration of how to use the code is in `demo.py`.
+
+Tested against Python 3.6, numpy 1.14.5, scipy 1.1.0.
 
 ### Citation
 
